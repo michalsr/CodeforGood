@@ -1,0 +1,187 @@
+/* controls the look of the drop-down menu's 
+
+ Copyright 2007 - Zoute snor
+ 
+ All rights reserved. You are free to use this software and redistribute it for free but may not include it in any commercial distribution without prior written permission.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+
+#dropdownmenu {
+	display: block;
+	border: 0px;
+	zpadding: 0px 0px 40px 0px;
+	/* change 3rd parameter to adjust where it starts from top of page */
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 120px 0px;
+	z-index: 5;
+	position: relative;
+top: 120px;
+	
+}
+ 
+#dropdownmenu ul {
+	width: 100%;
+	list-style-type: none;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 2px 0px;
+	z-index: 50;
+	position: absolute;
+	bottom: 0px;
+	left: 00px;
+
+}
+ 
+#dropdownmenu li {
+	display: inline;
+	float: left;
+	position: relative;
+	text-align: left;
+	padding: 0px 16px 5px;
+	margin: 0px 0px 0px 0px;
+		background: url(http://74.50.18.203/home/images/triangle_right_white.gif) no-repeat left; padding-left: 13px;
+}
+ 
+#dropdownmenu h2 {
+	/* font-size: 1.2em;
+	*/
+	padding: 0;
+	margin: 0;
+	weight: bold;
+}
+ 
+#dropdownmenu li ul {
+	width: 150px;
+	height: auto;
+	top: 100%;
+	left: 0px;
+}
+ 
+#dropdownmenu li.LargeMenu ul {
+	width: 180px;
+	height: auto;
+	top: 100%;
+	left: 0px;
+}
+ 
+#dropdownmenu li ul li {
+	text-align: left;
+	width: 260px;	
+	height: auto;
+	min-height: auto;
+	display: block;
+}
+ 
+#dropdownmenu li.LargeMenu ul li {
+	text-align: left;
+	width: 148px;	
+	height: auto;
+	min-height: auto;
+	display: block;
+}
+ 
+#dropdownmenu a {
+	text-decoration: none;
+}
+ 
+#dropdownmenu li li ul {
+	top: 0;
+	left: 0;
+}
+ 
+#dropdownmenu li li:hover ul {
+	left: 150px;
+}
+ 
+/* initialy hide all sub sidemenus */
+#dropdownmenu ul ul,
+#dropdownmenu ul li:hover ul ul,
+#dropdownmenu ul ul li:hover ul ul,
+#dropdownmenu ul ul ul li:hover ul ul,
+#dropdownmenu ul ul ul ul li:hover ul ul {
+	display: none;
+	position: absolute;
+}
+ 
+/* display them on hover */
+#dropdownmenu li:hover ul,
+#dropdownmenu ul li:hover ul,
+#dropdownmenu ul ul li:hover ul,
+#dropdownmenu ul ul ul li:hover ul,
+#dropdownmenu ul ul ul ul li:hover ul,
+#dropdownmenu ul ul ul ul ul li:hover ul {
+  	display: block;
+		/* bkj added z-index here */
+		z-index: 501;
+
+}
+ 
+#dropdownmenu #PhpWebcontent {
+	display:none;
+}	
+ 
+/* define the consecutive colors */
+ 
+#dropdownmenu {
+	color: #FFFFFF;
+}
+ 
+#dropdownmenu ul{
+	-moz-opacity:0.88; /* for mozilla */
+	opacity: 0.88; /* for safari */
+	khtml-opacity: 0.88 ;
+        /* for konquerer and older safari */
+	zmin-height:1%; /* for ie7 */
+	/* bkj added */
+	zfilter:alpha(opacity=88);
+
+}
+ 
+#dropdownmenu ul ul {
+}
+ 
+#dropdownmenu ul li {
+}
+ 
+#dropdownmenu h2 {
+	color: #FFFFFF;
+}
+ 
+#dropdownmenu a {
+	color: #FFFFFF;
+	}
+ 
+#dropdownmenu ul li:hover {
+	background: #00005C;
+}
+ 
+#dropdownmenu ul li ul {
+ 
+}
+ 
+#dropdownmenu ul li ul li {
+	background: #00005C;
+}
+ 
+#dropdownmenu ul li ul li:hover {
+	background: #33337D;
+}
+ 
+#dropdownmenu ul li ul ul li{
+	background: #33337D;
+}
+ 
+#dropdownmenu ul li ul ul li:hover {
+	zbackground: #999999;
+	
+}
+
+

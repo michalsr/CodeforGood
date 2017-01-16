@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Link Indication\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-26 23:35+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michael <michael dot woehrer at gmail dot com>\n"
+"Language-Team: FatCow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ../.\n"
+
+#: .././inc.swg-plugin-framework.php:73
+msgid "Plugin"
+msgstr "Плагин"
+
+#: .././inc.swg-plugin-framework.php:75
+msgid "Plugin's Homepage"
+msgstr "Главная страница плагина"
+
+#: .././inc.swg-plugin-framework.php:76
+msgid "WordPress Support"
+msgstr "Wordpress-поддержка"
+
+#: .././inc.swg-plugin-framework.php:77
+msgid "Other Plugins I've Written"
+msgstr "Другие плагины я написал"
+
+#: .././inc.swg-plugin-framework.php:80
+msgid "Do you like this plugin?"
+msgstr "Нравится ли вам этот плагин?"
+
+#: .././inc.swg-plugin-framework.php:81
+msgid "I spend a lot of time on the plugins I've written for WordPress. Any donation would be highly appreciated."
+msgstr "Я провожу много времени на плагины я написал для WordPress. Любые пожертвования будут высоко оценены."
+
+#: .././inc.swg-plugin-framework.php:83
+msgid "Donate via PayPal"
+msgstr "Пожертвовать через PayPal"
+
+#: .././inc.swg-plugin-framework.php:84
+msgid "My Amazon Wish List"
+msgstr "Мой личный список Амазонки"
+
+#: .././inc.swg-plugin-framework.php:102
+msgid "The activated plugin"
+msgstr "Активированный плагин"
+
+#: .././inc.swg-plugin-framework.php:103
+msgid "is not compatible with your installed WordPress"
+msgstr "Не совместимо с вашим установленным WordPress"
+
+#: .././inc.swg-plugin-framework.php:104
+msgid "WordPress version"
+msgstr "WordPress версия"
+
+#: .././inc.swg-plugin-framework.php:104
+msgid "or higher is required when using this plugin, please deactivate it."
+msgstr "или выше требуется при использовании данного плагина, то отключить ее."
+
+#: .././inc.swg-plugin-framework.php:117
+msgid "Settings deleted/reset."
+msgstr "Настройка удален / Сброс."
+
+#: .././inc.swg-plugin-framework.php:174
+msgid "Settings saved."
+msgstr "Параметры сохранены."
+
+#: .././inc.swg-plugin-framework.php:295
+msgid "You do not have permission to modify the options"
+msgstr "У вас нет разрешения на изменение параметров"
+
+#: .././inc.swg-plugin-framework.php:346
+msgid "Plugin Settings"
+msgstr "Настройки плагина"
+
+#: .././inc.swg-plugin-framework.php:359
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: .././inc.swg-plugin-framework.php:360
+msgid "Do you really want to delete/reset the plugin settings?"
+msgstr "Вы действительно хотите удалить / сброс настройках плагина?"
+
+#: .././inc.swg-plugin-framework.php:360
+msgid "Delete/Reset Settings"
+msgstr "Удалить / Сбросить настройки"
+
+#: .././link-indication.php:427
+msgid "style.css and link-indication_style.css"
+msgstr "style.css и link-indication_style.css"
+
+#: .././link-indication.php:429
+msgid "We use"
+msgstr "Мы используем "
+
+#: .././link-indication.php:431
+msgid "for the indication of links. You can either add appropriate CSS rules to your <code>style.css</code> of your themes directory"
+msgstr "об указании ссылки. Вы можете добавить соответствующие правила CSS к <code>style.css</code> Вашей директории темам"
+
+#: .././link-indication.php:433
+msgid "or you apply the file"
+msgstr "или вы применить файл"
+
+#: .././link-indication.php:435
+msgid "in the plugin's directory by activating the following option. In this case the images in"
+msgstr "в каталоге плагина, активируя следующую опцию. В этом случае изображение"
+
+#: .././link-indication.php:436
+msgid "will be used in the css file."
+msgstr "будет использоваться в CSS файле."
+
+#: .././link-indication.php:437
+msgid "Please don't forget to refresh the browser's cache (e.g. CTRL + F5 in Firefox) after you have modified the CSS file, otherwise you will not see your changes immediately."
+msgstr "Пожалуйста, не забудьте обновить кэш браузера (например, Ctrl + F5 в Firefox) после изменения файла CSS, иначе Вы не сможете увидеть изменения немедленно."
+
+#: .././link-indication.php:443
+msgid "Apply <code>link-indication_style.css</code> from the plugin's directory"
+msgstr "Применить <code>link-indication_style.css</code> из каталога плагина"
+
+#: .././link-indication.php:449
+msgid "Plugin's Application"
+msgstr "Применение плагина"
+
+#: .././link-indication.php:452
+msgid "Apply plugin to content and comments [default]"
+msgstr "Применить плагин для содержания и комментарий [по умолчанию]"
+
+#: .././link-indication.php:455
+msgid "Apply plugin to content only and not to comments"
+msgstr "Применить плагин для содержания, а не только к комментариям"
+
+#: .././link-indication.php:458
+msgid "Apply plugin to the entire blog incl. header, sidebar, footer, etc."
+msgstr "Применить плагин для всего включая блог. Заголовок, боковая панель, колонтитул и т.д."
+
+#: .././link-indication.php:463
+msgid "Apply indicators and attributes to links"
+msgstr "Применять показатели и атрибуты ссылками"
+
+#: .././link-indication.php:464
+msgid "Apply CSS Class Attributes"
+msgstr "Применить CSS Атрибуты класса"
+
+#: .././link-indication.php:465
+msgid "This is the main purpose of the plugin: applying CSS class attributes to links. Further options are below in the section &laquo;CSS Class Attributes&raquo;."
+msgstr "Это основная цель плагина: Применение CSS класс атрибутов ссылки. Дальнейшие параметры приведены ниже в разделе «CSS» Атрибуты класса."
+
+#: .././link-indication.php:469
+msgid "Apply CSS Class Attributes [default: yes]"
+msgstr "Применить CSS класс атрибутов [по умолчанию: да]"
+
+#: .././link-indication.php:472
+msgid "target=\"_blank\""
+msgstr "target=\"_blank\""
+
+#: .././link-indication.php:473
+msgid "This option will add"
+msgstr "Эта опция будет добавлена"
+
+#: .././link-indication.php:475
+msgid "to all external hyperlinks. Please note that target=\"_blank\" is not recommended according to"
+msgstr "на все внешние гиперссылки. Обратите внимание, что target=\"_blank\"  не рекомендуется в соответствии с"
+
+#: .././link-indication.php:477
+msgid "and your website will not validate as XHTML Strict when activating this option."
+msgstr "и ваш сайт не будет проверять как XHTML Строгая при активации этой опции."
+
+#: .././link-indication.php:482
+msgid "Add <em>target=\"_blank\"</em> to all external hyperlinks"
+msgstr "Добавить <em>target=\"_blank\"</em> to all external hyperlinks"
+
+#: .././link-indication.php:485
+msgid "Websnapr preview thumbnails"
+msgstr "Предварительный просмотр эскизов WebSnapr"
+
+#: .././link-indication.php:486
+msgid "Displays overlay bubbles showing hyperlink target thumbnails, uses"
+msgstr "Отображает Наложение гиперссылка пузырьков показаны эскизы цели, использует"
+
+#: .././link-indication.php:487
+msgid ". Please note that visitors may find these thumbnail previews pretty annoying."
+msgstr ". Обратите внимание, что посетители могут найти эти эскизы очень раздражает."
+
+#: .././link-indication.php:491
+msgid "Display websnapr preview thumbnails for all external links"
+msgstr "Отобр. WebSnapr эскизы на все внешние ссылки"
+
+#: .././link-indication.php:494
+msgid "Add 'nofollow' attribute"
+msgstr "Добавить 'nofollow' аттр."
+
+#: .././link-indication.php:495
+msgid "When an URL contains any of these expressions, a <em><a href=\"http://en.wikipedia.org/wiki/Nofollow\">rel=\"nofollow\"</a></em> attribute will be assigned. One expression per line. It will match inside URLS, so the expression <code>wp-admin</code> will match <code>http://testblog.com/<strong>wp-admin</strong>/options-general.php</code>."
+msgstr "Если URL содержит любое из этих выражений, a <em><a href=\"http://en.wikipedia.org/wiki/Nofollow\">rel=\"nofollow\"</a></em> attribute will be assigned. One expression per line. It will match inside URLS, so the expression <code>wp-admin</code> will match <code>http://testblog.com/<strong>wp-admin</strong>/options-general.php</code>."
+
+#: .././link-indication.php:495
+msgid "Example: If you want to assign nofollow to all links to Wikipedia, then enter <em>wikipedia.org</em>. This will apply nofollow to all links including subdomains like <em>de.wikipedia.org</em>, <em>fr.wikipedia.org</em>, etc. By the way, <a href=\"http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2007-01-22/Nofollow\">Wikipedia is adding nofollow tags to all external links</a>, therefore it is listed below as default value."
+msgstr "Пример: Если вы хотите назначить NOFOLLOW всех ссылок на Википедии, а затем введите <em>wikipedia.org</em>. Damit wird \"nofollow\" in allen Links zu Wikipedia inkl. sämtlicher Subdomains wie etwa  <em>de.wikipedia.org</em> oder <em>fr.wikipedia.org</em> gesetzt. Übrigens <a href=\"http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2007-01-22/Nofollow\">fügt Wikipedia \"nofollow\" zu allen externen Links hinzu</a>, daher ist Wikipedia unten auch als Default-Wert gelistet."
+
+#: .././link-indication.php:519
+msgid "External URL"
+msgstr "Внешний URL"
+
+#: .././link-indication.php:520
+msgid "File Extension"
+msgstr "Расширение файла"
+
+#: .././link-indication.php:529
+msgid "CSS Class Attributes"
+msgstr "Класс CSS Атрибута"
+
+#: .././link-indication.php:530
+msgid "These CSS class attributes will be added to your hyperlinks. Please make sure that you have activated the option &laquo;Apply CSS Class Attributes&raquo; above."
+msgstr "Эти атрибуты CSS классов будут добавлены к вашему гиперссылки. Пожалуйста, убедитесь, что Вы активировали опцию &laquo;Применить CSS Атрибуты класса&raquo;  выше."
+
+#: .././link-indication.php:531
+msgid "Example: If you have entered \"liexternal\" in the field \"External links:\", external links like <code>&lt;a href=\"http://www.google.com\"&gt;Google&lt;/a&gt;</code> will become to <code>&lt;a <strong>class=\"liexternal\"</strong> href=\"http://www.google.com\"&gt;Google&lt;/a&gt;</code>."
+msgstr "Пример: Если вы ввели \"liexternal\" in the field \"External links:\", external links like <code>&lt;a href=\"http://www.google.com\"&gt;Google&lt;/a&gt;</code> will become to <code>&lt;a <strong>class=\"liexternal\"</strong> href=\"http://www.google.com\"&gt;Google&lt;/a&gt;</code>."
+
+#: .././link-indication.php:535
+msgid "External links:"
+msgstr "Внешние ссылки:"
+
+#: .././link-indication.php:537
+msgid "General links to external websites such as google.com, wordpress.org etc."
+msgstr "Общие ссылки на внешние сайты, такие как google.com, wordpress.org т.д."
+
+#: .././link-indication.php:540
+msgid "FTP links:"
+msgstr "FTP-ссылки:"
+
+#: .././link-indication.php:542
+msgid "Links to FTP server (ftp://...)."
+msgstr "Ссылки на FTP-сервер (ftp://...)."
+
+#: .././link-indication.php:545
+msgid "mailto links:"
+msgstr "Mailto ссылки:"
+
+#: .././link-indication.php:547
+msgid "E-mail links, e.g. mailto:test@site.com."
+msgstr "E-Mail-ссылки, напр. mailto:test@site.com."
+
+#: .././link-indication.php:550
+msgid "Internal links:"
+msgstr "Внутренние ссылки:"
+
+#: .././link-indication.php:552
+msgid "All internal links."
+msgstr "Все внутренние ссылки."
+
+#: .././link-indication.php:557
+msgid "Specific link types"
+msgstr "Speziell definierte Link-Typen"
+
+#: .././link-indication.php:561
+msgid "Type"
+msgstr "Typ"
+
+#: .././link-indication.php:562
+msgid "Search string"
+msgstr "Строка поиска"
+
+#: .././link-indication.php:563
+msgid "CSS class"
+msgstr "CSS-класс"
+
+#: .././link-indication.php:567
+msgid "Explanation:"
+msgstr "Пояснение:"
+
+#: .././link-indication.php:570
+msgid "Type \"External URL\" and \"Search String\":"
+msgstr "Type \"External URL\" and \"Search String\":"
+
+#: .././link-indication.php:570
+msgid "Generally, the class you have entered in the field &raquo;External links:&laquo; is applied to all external links. However, you can enter classes for specific external links, so for example links to Wikipedia, YouTube, Flickr, IMDB, etc. <br />If the domain name of the external link contains the value you have entered in the field &raquo;Search string&laquo;, the according &raquo;CSS class&laquo; will be applied. <br />Examples for 'Search string': <em>wikipedia, flickr.com, imdb.com</em>. Examples for 'CSS class': <em>liwikipedia, liflickr, liimdb</em><br />Also, if you use for example <em>wikipedia</em> instead of <em>en.wikipedia.org</em>, it will also work for links like <em>http://www.wikipedia.org/...</em> or <em>http://wikipedia.de/...</em>.<br />You can enter multiple values in the field &raquo;Search string&laquo;; please use pipe ('|') or comma (',') as separator."
+msgstr "Как правило, класс, который вы ввели в поле »Ссылки Внешние факторы:« применяется ко всем внешним ссылкам. Однако, вы можете ввести конкретные классы для внешних ссылок, поэтому, например ссылки на Wikipedia, YouTube, Flickr, IMDB и т.д. <br /> Если доменное имя внешней ссылке содержит значение, которое вы ввели в поле »Поиск« строка, согласно »CSS-класс« будут применены. <br /> Примеры &quot;Поиск строки &#39;: <em>Wikipedia, flickr.com, imdb.com.</em> Примеры &#39;CSS класс&#39;: <em>liwikipedia, liflickr, liimdb</em> <br /> Кроме того, если вы используете для примера <em>Википедии</em> вместо <em>en.wikipedia.org,</em> он также будет работать для ссылок как <em>http://www.wikipedia.org/ http://wikipedia.de/ ...</em> или <em>....</em> <br /> Вы можете ввести несколько значений в поле »Поиск« строка; пожалуйста, используйте (&#39;|&#39;) трубы (&#39;,&#39;) или запятой в качестве разделителя."
+
+#: .././link-indication.php:573
+msgid "Type \"File Extension\":"
+msgstr "Typ \"Dateiendung\":"
+
+#: .././link-indication.php:573
+msgid "In addition to the indication of external/internal links or the type of external link, you can indicate different filename extensions. Just select \"File Extension\" in the drop-down box, enter the approriate filename extension in the field &raquo;Search string&laquo;, e.g. pdf, xls, txt, png, etc. Like for external URLs, enter the appropriate CSS class in the field &raquo;CSS class&laquo;. <br />Please note that filename extensions do have the highest priority, that means if you have defined a filename extension for \"jpg\" as well as an external URL \"flickr.com\", the css class for the file extension \"jpg\" is being used (and not the css class for flickr) if you have a link like <em>http://www.flickr.com/folder17/summer.jpg</em>."
+msgstr "В дополнение к указанию внешние / внутренние ссылки или тип внешней ссылке, вы можете указать другое имя файла расширение.Just select \"File Extension\" in the drop-down box, enter the approriate filename extension in the field &raquo;Search string&laquo;, e.g. pdf, xls, txt, png, etc. Like for external URLs, enter the appropriate CSS class in the field &raquo;CSS class&laquo;. <br />Please note that filename extensions do have the highest priority, that means if you have defined a filename extension for \"jpg\" as well as an external URL \"flickr.com\", the css class for the file extension \"jpg\" is being used (and not the css class for flickr) if you have a link like <em>http://www.flickr.com/folder17/summer.jpg</em>."
+
+#: .././link-indication.php:576
+msgid "Adding more rules:"
+msgstr "Добавление нескольких правил:"
+
+#: .././link-indication.php:576
+msgid "Just fill out the fields and save the options, then 5 more empty fields will appear. In this way you can add an unlimited number of rules."
+msgstr "Просто заполните поля и сохранить параметры, а затем еще 5 пустых полях появится. Таким образом, вы можете добавить неограниченное количество правил."
+
+#: .././link-indication.php:585
+msgid "Expert options"
+msgstr "Experten-Einstellungen"
+
+#: .././link-indication.php:586
+msgid "Blog URLs (your internal URLs)"
+msgstr "Блог URL (ваши внутренние URL-адреса)"
+
+#: .././link-indication.php:587
+msgid "Enter one ore more blog URLs. Separate multiple URLs with line breaks. Links that are based on these URLs are considered as internal links. Chars which follow the"
+msgstr "Введите один или несколько URL-адресов блог. Отдельные URL-адреса с нескольких строк. Ссылки, которые основаны на этих URL-адреса считаются внутренними ссылками. Символов, которые следуют за"
+
+#: .././link-indication.php:589
+msgid "tld"
+msgstr "tld"
+
+#: .././link-indication.php:591
+msgid "(e.g. <em>xxx</em> in <em>http://www.test.google.com/xxx</em>) will be removed.<br />Your current blog URL: "
+msgstr "(например, в <em>XXX http://www.test.google.com/xxx)</em> будут удалены. <br /> Ваш текущий блога:"
+
+#: .././link-indication.php:593
+msgid "Normally you don't need to change anything here and the blog URL is just fine."
+msgstr "Обычно вам не надо ничего менять здесь, а блог просто штрафом."
+
+#: .././link-indication.php:595
+msgid "Apply CSS Class Attributes also to images"
+msgstr "Применить Класс CSS атрибуты также к изображениям"
+
+#: .././link-indication.php:599
+msgid "Apply class attributes also to images (<em>&lt;img&gt;</em> tags inside the <em>&lt;a&gt;</em> tags)"
+msgstr "Применить класс атрибутов также изображений <em>(&lt;img&gt;</em> теги внутри <em>&lt;a&gt;</em> теги)"
+
+#: .././link-indication.php:600
+msgid "Normally it does not make sense to activate this option."
+msgstr "Обычно это не имеет смысла, чтобы активировать эту опцию."
+
+#~ msgid "The Maintenance Mode is active. Please don't forget to"
+#~ msgstr ""
+#~ "Der Wartungsmodus ist derzeit aktiviert. Bitte nicht vergessen diesen zu "
+#~ msgid "deactivate"
+#~ msgstr "deaktivieren"
+#~ msgid "it as soon as you are done."
+#~ msgstr "sobald Sie die Wartungsarbeiten beendet haben-"
+#~ msgid "Activate/Deactivate Maintenance Mode"
+#~ msgstr "Wartungsmodus ein- und ausschalten"
+#~ msgid "Activated"
+#~ msgstr "Eingeschaltet"
+#~ msgid "Deactivated"
+#~ msgstr "Ausgeschaltet"
+#~ msgid "Message"
+#~ msgstr "Meldung"
+#~ msgid "Title"
+#~ msgstr "Titel"
+#~ msgid ""
+#~ "Use HTML only, no PHP allowed. You can use <strong>[blogurl]</strong>, "
+#~ "<strong>[blogtitle]</strong> and <strong>[backtime]</strong> as "
+#~ "placeholders."
+#~ msgstr ""
+#~ "Nur HTML erlaubt, kein PHP. Es können die Platzhalter <strong>[blogurl]</"
+#~ "strong>, <strong>[blogtitle]</strong> und <strong>[backtime]</strong> "
+#~ "verwendet werden."
+#~ msgid "Backtime and HTTP header"
+#~ msgstr "Voraussichtliche Dauer der Wartung und HTTP-Header"
+#~ msgid "Backtime in minutes"
+#~ msgstr "Dauer der Wartung in Minuten (\"backtime\")"
+#~ msgid ""
+#~ "A special HTML header for feed and trackback will be applied (&laquo;503 "
+#~ "Service Unavailable&raquo;) including 'retry after x minutes'. Enter here "
+#~ "the approximate time in minutes to retry. Also, by using the placeholder "
+#~ "<strong>[backtime]</strong> above, the time in minutes be displayed to "
+#~ "the visitors as well."
+#~ msgstr ""
+#~ "Für Feedreader- und Trackback-Anfragen wird ein spezieller HTTP-Header "
+#~ "gesetzt (&laquo;503 Service Unavailable&raquo;). Außerden wird bei "
+#~ "Feedreader- und Trackback-Anfragen eine Minutenanzahl übergeben, nach der "
+#~ "die Wartung voraussichtlich beendet ist, diese bitte links eintragen. "
+#~ "Diese Zahl kann zusätzlich mit Hilfe des Platzhalters <strong>[backtime]</"
+#~ "strong> in dem obigen Textfeld (\"Meldung\") ausgegeben werden."
+#~ msgid ""
+#~ "Apply HTTP header '503 Service Unavailable' and 'Retry-After &lt;"
+#~ "backtime&gt;' to Maintenance Mode splash page"
+#~ msgstr ""
+#~ "'503 Service Unavailable' und 'Retry-After &lt;backtime&gt;' generell im "
+#~ "HTTP-Header der Wartungsmodus-Seite setzen"
+#~ msgid "Paths to be still accessable"
+#~ msgstr "Pfade, die immer erreichbar sein sollen"
+#~ msgid ""
+#~ "Enter paths that shall be excluded and still be accessable. Separate "
+#~ "multiple paths with line breaks.<br />Example: If you want to exclude "
+#~ "<em>http://site.com/about/</em>, then enter <em>/about/</em>."
+#~ msgstr ""
+#~ "Hier können Pfade angegeben werden, die immer erreichbar sein sollen "
+#~ "(also bei denen keine Wartungsmodus-Seite erscheinen soll). Mehrere Pfade "
+#~ "bitte mit einem Zeilenumbruch (ENTER) trennen.<br />Beispiel: Um "
+#~ "<em>http://site.com/about/</em> auszuschließen, <em>/about/</em> eingeben."
+#~ msgid "How to permit blog editors to see the blog's front-end"
+#~ msgstr "Blog-Editoren Zugriff auf die Wartungs-Seiten einrichten"
+#~ msgid ""
+#~ "As soon as you activate the maintenance mode, a splash page is being "
+#~ "added to your blog that informs visitors about your blog maintenance. "
+#~ "Logged in administrators get full access to the blog including the front-"
+#~ "end and will not see any splash page.<br />This plugin adds the "
+#~ "capability 'access_on_maintenance' to the role 'Administrator'. If users "
+#~ "with a specific role, for instance 'Editor', should get full access to "
+#~ "the blog as well, use an appropriate plugin like"
+#~ msgstr ""
+#~ "Sobald der Wartungsmodus eingeschaltet ist, wird eine Wartungsseite "
+#~ "vorgeschaltet, die Besucher über die Wartung informiert. Eingeloggte Blog-"
+#~ "Administratoren haben Vollzugriff und die vorgeschaltete Wartungsseite "
+#~ "erscheint nicht.<br />Dieses Plugin fügt die sog. \"Capability\" "
+#~ "'access_on_maintenance' zur Rolle 'Administrator' hinzu. Wenn nun User "
+#~ "mit einer bestimmten Rolle, z.B. \"Editor\", ebenso Vollzugriff (d.h. "
+#~ "keine Wartungsseite) erhalten sollen, muss man mit einem entsprechenden "
+#~ "Plugin (z.B."
+#~ msgid ""
+#~ "and grant the capability 'Access On Maintenance' for the role 'Editor' or "
+#~ "for any other role of your choice. <br />Check out"
+#~ msgstr ""
+#~ ") neben Administratoren ebenso Editoren die Rolle 'access_on_maintenance' "
+#~ "zuordnen.<br />Mehr Informationen zu Berechtigungen, Rollen und "
+#~ "Capabilities gibt es unter "
+#~ msgid "for further information."
+#~ msgstr "."
+

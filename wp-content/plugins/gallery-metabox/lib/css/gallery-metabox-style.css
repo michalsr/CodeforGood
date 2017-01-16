@@ -1,0 +1,78 @@
+div#be_gallery_metabox div.be-image-wrapper span.be-image-remove {
+	cursor:pointer;
+	position:relative;
+	left:-10px;
+	bottom:-5px;
+}
+div#be_gallery_metabox .be-button {
+	margin:0 5px 0 0;
+	font-size: 12px;
+	line-height: 15px;
+	padding: 3px 10px;
+	white-space: nowrap;
+}
+/* add these lines */
+
+
+
+.media-item .filename {
+	margin-left: 50px;
+}
+#media-items .media-item {
+	clear: both;
+	position: relative;
+}
+.media-item .pinkynail {
+	position: absolute;
+}
+#media-items .menu_order_input {
+	padding: 2px 4px;
+	width: 4em;
+	text-align: right;
+}
+#media-items .menu_order {
+	width: 20%;
+	margin: 7px 0px;
+	padding-right: 60px;
+}
+#media-items a.toggle {
+	width: auto;
+	padding-right: 3px;
+}
+
+/* specific to new item wrap added for Gallery Metabox interface */
+.be_gallery_metabox_item_wrap {
+	position: relative;
+}
+.be_gallery_metabox_menu_order {
+	background-color: #333;
+	border-radius: 15px;
+	bottom: -5px;
+	box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.6);
+	color: #FFFFFF;
+	font-size: 9px;
+	height: 20px;
+	left: -5px;
+	opacity: 0.8;
+	padding: 2px 2px;
+	position: absolute;
+	text-align: center;
+	min-width: 20px;
+}
+.be_gallery_metabox_item_wrap img {
+	max-height: 100px;
+	max-width: 72px;
+}
+.be_gallery_metabox_hover {
+	display: none;
+	width: 400px;
+	background-color:#FFC;
+	box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.6);
+	padding: 10px;
+	font-size: 9px;
+	color: #000;
+	position: absolute;
+	z-index:999;
+	opacity: .9;
+}
+

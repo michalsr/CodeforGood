@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Slugs 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-28 16:11+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tom Riddle <tom_riddlevn@yahoo.com>\n"
+"Language-Team: HieuDT <mr.hieudt@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wp27\\wp-content\\plugins\\quick-slugs\\\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wp27\\wp-content\\plugins\\quick-slugs\n"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:68
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:249
+msgid "Quick Slugs"
+msgstr "Quick Slugs"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:113
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:461
+msgid "Published"
+msgstr "Published"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:113
+msgid "Published posts"
+msgstr "Published posts"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:114
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:466
+msgid "Scheduled"
+msgstr "Scheduled"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:114
+msgid "Scheduled posts"
+msgstr "Scheduled posts"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:115
+msgid "Pending Review"
+msgstr "Pending Review"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:115
+msgid "Pending posts"
+msgstr "Pending posts"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:116
+msgid "Draft"
+msgstr "Draft"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:117
+msgid "Private"
+msgstr "Private"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:117
+msgid "Private posts"
+msgstr "Private posts"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:171
+#, php-format
+msgid "Security problem. Please try again. If this problem persists, contact %1$s"
+msgstr "Lỗi bảo mật. Vui lòng thử lại. Nếu vẫn bị lỗi nữa thì liên hệ với %1$s"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:171
+msgid "plugin author"
+msgstr "tác giả của plugin"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:200
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:228
+#, php-format
+msgid "%s page(s) updated!"
+msgstr "%s trang đã được cập nhật."
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:202
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:230
+#, php-format
+msgid "%s post(s) updated!"
+msgstr "%s bài viết đã được cập nhật."
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:249
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Kết quả tìm kiếm cho từ &#8220;%s&#8221;"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:259
+msgid "All Posts"
+msgstr "Tất cả bài viết"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:279
+msgid "All Pages"
+msgstr "Tất cả trang"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:287
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:289
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:304
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:305
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:322
+msgid "Show all dates"
+msgstr "Hiện tất cả các ngày"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:342
+msgid "View all categories"
+msgstr "Hiện tất cả chuyên mục"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:345
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:358
+msgid "Filter"
+msgstr "Lọc"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:359
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:500
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:518
+msgid "Get slugs from titles"
+msgstr "Lấy slug từ tiêu đề"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:364
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Đang hiện %s&#8211;%s của %s"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:382
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:392
+msgid "Slug"
+msgstr "Slug"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:383
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:393
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:384
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:394
+msgid "Categories"
+msgstr "Chuyên mục"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:385
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:395
+msgid "Date"
+msgstr "Ngày tháng"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:415
+#, php-format
+msgid "Edit \"%s\""
+msgstr "Edit \"%s\""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:425
+msgid "Uncategorized"
+msgstr "Uncategorized"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:430
+msgid "Unpublished"
+msgstr "Unpublished"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:432
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:440
+#, php-format
+msgid "%s from now"
+msgstr "%s from now"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:448
+#, php-format
+msgid "%s ago"
+msgstr "%s ago"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:450
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:464
+msgid "Missed schedule"
+msgstr "Missed schedule"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:468
+msgid "Last Modified"
+msgstr "Last Modified"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:486
+msgid "Update All"
+msgstr "Cập nhật tất cả"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:487
+msgid "Update Selected"
+msgstr "Cập nhật những cái đã chọn"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:509
+msgid "Undo"
+msgstr "Làm lại"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:528
+msgid "No posts found"
+msgstr "Không có bài viết nào"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:531
+#, php-format
+msgid "Visit the %1$s for more details. If you find a bug or have a fantastic idea for this plugin, feel free to %2$s!"
+msgstr "Để biết thêm chi tiết, mời bạn vào %1$s. Nếu bạn phát hiện lỗi hoặc có thêm ý tưởng mới cho plugin này thì hãy %2$s cho tôi nhé!"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:531
+msgid "plugin's homepage"
+msgstr "trang chủ của plugin"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:531
+msgid "contact me"
+msgstr "thông báo"
+

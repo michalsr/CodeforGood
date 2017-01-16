@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Slugs 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-28 16:19+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tom Riddle <tom_riddlevn@yahoo.com>\n"
+"Language-Team: HieuDT <mr.hieudt@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wp27\\wp-content\\plugins\\quick-slugs\\\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wp27\\wp-content\\plugins\\quick-slugs\n"
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:68
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:249
+msgid "Quick Slugs"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:113
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:461
+msgid "Published"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:113
+msgid "Published posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:114
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:466
+msgid "Scheduled"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:114
+msgid "Scheduled posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:115
+msgid "Pending Review"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:115
+msgid "Pending posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:116
+msgid "Draft"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:117
+msgid "Private"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:117
+msgid "Private posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:171
+#, php-format
+msgid "Security problem. Please try again. If this problem persists, contact %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:171
+msgid "plugin author"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:200
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:228
+#, php-format
+msgid "%s page(s) updated!"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:202
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:230
+#, php-format
+msgid "%s post(s) updated!"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:249
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:259
+msgid "All Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:279
+msgid "All Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:287
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:289
+msgid "Search"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:304
+msgid "&laquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:305
+msgid "&raquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:322
+msgid "Show all dates"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:342
+msgid "View all categories"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:345
+msgid "Quantity"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:358
+msgid "Filter"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:359
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:500
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:518
+msgid "Get slugs from titles"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:364
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:382
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:392
+msgid "Slug"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:383
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:393
+msgid "Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:384
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:394
+msgid "Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:385
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:395
+msgid "Date"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:415
+#, php-format
+msgid "Edit \"%s\""
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:425
+msgid "Uncategorized"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:430
+msgid "Unpublished"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:432
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:440
+#, php-format
+msgid "%s from now"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:448
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:450
+msgid "Y/m/d"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:464
+msgid "Missed schedule"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:468
+msgid "Last Modified"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:486
+msgid "Update All"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:487
+msgid "Update Selected"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:509
+msgid "Undo"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:528
+msgid "No posts found"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:531
+#, php-format
+msgid "Visit the %1$s for more details. If you find a bug or have a fantastic idea for this plugin, feel free to %2$s!"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:531
+msgid "plugin's homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wp27\wp-content\plugins\quick-slugs/quick-slugs.php:531
+msgid "contact me"
+msgstr ""
+

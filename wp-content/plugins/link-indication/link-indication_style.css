@@ -1,0 +1,8 @@
+/* For Link Indication plugin */
+a.liexternal { padding-right: 12px; background: url(images/link-icon_external.gif) no-repeat right; }
+a.liwikipedia { padding-right: 13px; background: url(images/link-icon_wikipedia.gif) no-repeat right; }
+a.liwp { padding-right: 16px; background: url(images/link-icon_wordpress.png) no-repeat right; }
+a.liftp { padding-right: 13px; background: url(images/link-icon_ftp.png) no-repeat right; }
+a.limailto { padding-right: 18px; background: url(images/link-icon_mail.gif) no-repeat right; }
+a.lipdf { padding-right: 12px; background: url(images/link-icon_pdf.png) no-repeat right;  }
+a.lizip { padding-right: 12px; background: url(images/link-icon_zip.png) no-repeat right;  }

@@ -1,0 +1,160 @@
+/*
+This is a briefer version of style.css for the editor.
+*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 750px;	
+	font-size: 15px;
+	line-height: 175%;
+	color: #000;
+}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+	padding: 0px;
+	margin: 0px;
+}
+
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+/* colors */
+
+
+
+a {
+	color: #faac00;
+}
+a:hover {
+	color: #990000;
+}
+html {
+	background: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 150%;
+	margin:0;
+	padding:0;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 1em;
+}
+h1, h2, h3, h4, h5, h6, h7 {
+	font-weight: bold;
+	margin-bottom: .25em;
+	margin-top: .25em;
+	line-height: 130%;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #634100;
+}
+
+ p {
+	margin-bottom: 1em;
+	margin-top: 1em;
+	margin-left: 0px;
+	display: block;
+}
+
+/* basic Post styling  */
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 18px;
+	margin-bottom: 0.25em;
+	margin-top: 0px;
+}
+
+h4 {
+	font-size: 90%;
+	font-style: italic;
+	font-weight: normal;
+}
+.pullquote {
+	width: 160px;
+	background-color: #7c87be;
+	color: white;
+	padding: 20px;
+	margin-left: 20px;
+	float: right;
+	font-size: 16px;
+	line-height: 150%;
+	margin-bottom: 10px;
+	font-style: italic;
+}
+
+
+strong {
+	font-weight: bold;
+}
+em {
+	font-style: italic;
+}
+
+ol, ul, dl {
+	/*bringing lists on to the page with breathing room */
+	margin-left:2em;
+	font-family:Arial, Helvetica, sans-serif;
+	padding: 0px;
+	list-style-type: disc;
+}
+ol li {
+	/*giving OL's LIs generated numbers*/
+	list-style: decimal outside;
+}
+ul li {
+	list-style:disc;
+	margin-bottom: .5em;
+	}
+dl dd {
+	/*providing spacing for definition terms*/
+	margin-left:1em;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 20px;
+}
+.alignright {
+	float: right;
+	margin-left: 10px;
+}
+.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.designcredit {
+	font-size: 9px;
+	color: #ccc;
+	text-align:center;
+}
+.navigation {
+	width: 100%;
+	clear: both;
+	clear: after;
+	float: left;
+	font-size: 9px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #7c87be;
+}
+.postthumbnail {
+	float: left;
+	margin-right: 15px;
+}
+
+hr {border: 0px;
+border-bottom: 1px dotted #f1881f;
+border-bottom-style: none;
+
+}
+
+.separator {margin-bottom: 30px;}

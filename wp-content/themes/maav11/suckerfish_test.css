@@ -1,0 +1,92 @@
+#suckerfishnav {
+    width:600px;
+
+    }
+#suckerfishnav, #suckerfishnav ul {
+    float:left;
+    list-style:none;
+    line-height:48px;
+    padding:0;
+    margin:0;
+margin-top: 0px;
+
+
+    }
+#suckerfishnav a {
+    display:block;
+    color:#ffffff;
+    text-decoration:none;
+    padding:0px 10px;
+    text-transform: uppercase;}
+#suckerfishnav li {
+    float:left;
+    padding:0;
+}
+
+#suckerfishnav li a {
+	ztext-decoration: underline;
+	padding-left: 15px;
+	background: url("images/triangle_right_brown.gif") no-repeat left;
+margin-right: 10px;
+
+    }
+#suckerfishnav li ul {
+	opacity: .9;
+}
+#suckerfishnav li li a {
+	text-decoration: none;
+	padding-left: 0px;
+	background: none;
+}
+
+#suckerfishnav ul {
+    position:absolute;
+    left:-999em;
+    height:auto;
+    width:250px;
+    font-weight:normal;
+    margin:0;
+    line-height:120%;
+    border:0;
+    zborder-top:1px solid #666666;
+    }
+#suckerfishnav li li {
+    width:250px;
+    border-bottom:1px solid #fff;
+    font-weight:normal;
+
+    }
+/* take off 10px of this width */
+#suckerfishnav li li a {
+    padding:5px 10px;
+    width:240px;
+    color:#785100;
+font-size: 80%;
+text-transform: none;
+    }
+#suckerfishnav li ul ul {
+    margin:-21px 0 0 120px;
+    }
+#suckerfishnav li li:hover {
+    background:#feb811;
+    }
+#suckerfishnav li ul li:hover a, #suckerfishnav li ul li li:hover a, #suckerfishnav li ul li li li:hover a, #suckerfishnav li ul li li li:hover a {
+    color:#785100;
+    }
+#suckerfishnav li:hover a, #suckerfishnav li.sfhover a {
+    color:#785100;
+    }
+#suckerfishnav li:hover li a, #suckerfishnav li li:hover li a, #suckerfishnav li li li:hover li a, #suckerfishnav li li li li:hover li a {
+    color:#785100;
+    }
+#suckerfishnav li:hover ul ul, #suckerfishnav li:hover ul ul ul, #suckerfishnav li:hover ul ul ul ul, #suckerfishnav li.sfhover ul ul, #suckerfishnav li.sfhover ul ul ul, #suckerfishnav li.sfhover ul ul ul ul {
+    left:-999em;
+    }
+#suckerfishnav li:hover ul, #suckerfishnav li li:hover ul, #suckerfishnav li li li:hover ul, #suckerfishnav li li li li:hover ul, #suckerfishnav li.sfhover ul, #suckerfishnav li li.sfhover ul, #suckerfishnav li li li.sfhover ul, #suckerfishnav li li li li.sfhover ul {
+    left:auto;
+    background:#ffeec6;
+    }
+/* menu label at top */
+#suckerfishnav li:hover, #suckerfishnav li.sfhover {
+    zbackground:#FFFF00;
+    }

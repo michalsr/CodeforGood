@@ -1,0 +1,222 @@
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP1 START @ 04:36:44
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+VERSION:	1.1.26
+PHP:		7.1.0 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Unix) mod_wsgi/3.5 Python/2.7.12 PHP/7.1.0 mod_ssl/2.2.31 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0
+DOC ROOT:	/Users/michalshlapentokh-rothman/Desktop/CodeforGood
+DOC ROOT 755:	true
+LOG FILE 644:	true
+BUILD NAME:	20170110_melroseallianceagainstviolen_58751fbfaa8944001170110175407
+REQUEST URL:	http://localhost/maav_installer.php
+
+********************************************************************************
+ARCHIVE SETUP
+********************************************************************************
+NAME:	maav-archive-no-uploads-2017-01-10.zip
+SIZE:	26.66MB
+ZIP:	Enabled (ZipArchive Support)
+
+--------------------------------------
+WARNING: This package set may be incompatible!  
+Below is a summary of the package this installer was built with and the package used. 
+To guarantee accuracy the installer and archive should match. For details see the online FAQs.
+CREATED WITH:	20170110_melroseallianceagainstviolen_58751fbfaa8944001170110175407_archive.zip 
+PROCESSED WITH:	maav-archive-no-uploads-2017-01-10.zip  
+--------------------------------------
+
+EXTRACTING
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6402
+    [filename] => /Users/michalshlapentokh-rothman/Desktop/CodeforGood/maav-archive-no-uploads-2017-01-10.zip
+    [comment] => 
+)
+COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.170116163649.orig
+- Reset of .htaccess/web.config files
+
+UPDATED FILES:
+- SQL FILE:  '/Users/michalshlapentokh-rothman/Desktop/CodeforGood/installer-data.sql'
+- WP-CONFIG: '/Users/michalshlapentokh-rothman/Desktop/CodeforGood/wp-config.php' (if present)
+
+ARCHIVE RUNTIME: 4.9165 sec.
+
+
+********************************************************************************
+DATABASE-ROUTINES
+********************************************************************************
+--------------------------------------
+SERVER ENVIROMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.6.34 -- Build Server: 5.6.33
+TIMEOUT:	5000
+MAXPACK:	4194304
+SQLMODE:	NO_ENGINE_SUBSTITUTION
+
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6402
+    [filename] => /Users/michalshlapentokh-rothman/Desktop/CodeforGood/maav-archive-no-uploads-2017-01-10.zip
+    [comment] => 
+)
+COMPLETE: true
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+DROP TABLE:	
+QUERIES RAN:	15916
+
+rn_blc_filters: (0)
+rn_blc_instances: (565)
+rn_blc_links: (426)
+rn_blc_synch: (199)
+rn_cf7dbplugin_st: (142)
+rn_cf7dbplugin_submits: (629)
+rn_cformsdata: (66)
+rn_cformssubmissions: (11)
+rn_commentmeta: (18)
+rn_comments: (1)
+rn_comms: (3)
+rn_comms_email_log: (0)
+rn_comms_groups: (1)
+rn_comms_message_log: (0)
+rn_comms_project: (0)
+rn_comms_project_status: (0)
+rn_comms_user_groups: (3)
+rn_duplicator_packages: (1)
+rn_ec3_schedule: (0)
+rn_email: (9)
+rn_itsec_lockouts: (32)
+rn_itsec_log: (1)
+rn_itsec_temp: (116)
+rn_links: (35)
+rn_loginlog: (2035)
+rn_options: (556)
+rn_pollsa: (6)
+rn_pollsip: (12)
+rn_pollsq: (1)
+rn_postmeta: (6067)
+rn_posts: (4135)
+rn_sms_log: (0)
+rn_ss_search: (11)
+rn_term_relationships: (358)
+rn_term_taxonomy: (29)
+rn_termmeta: (0)
+rn_terms: (29)
+rn_usermeta: (368)
+rn_users: (10)
+Removed '6' cache/transient rows
+
+SECTION RUNTIME: 7.3440 sec.
+
+********************************************************************************
+STEP1 COMPLETE @ 04:36:56 - TOTAL RUNTIME: 12.2650 sec.
+********************************************************************************
+
+
+
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP2 START @ 04:37:11
+NOTICE: Do not post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	utf8
+CHARSET CLIENT:	 utf8 
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+rn_blc_filters^ (0)
+rn_blc_instances~ (565)
+rn_blc_links~ (426)
+rn_blc_synch~ (199)
+rn_cf7dbplugin_st~ (142)
+rn_cf7dbplugin_submits~ (629)
+rn_cformsdata~ (66)
+rn_cformssubmissions~ (11)
+rn_commentmeta~ (18)
+rn_comments~ (1)
+rn_comms~ (3)
+rn_comms_email_log^ (0)
+rn_comms_groups~ (1)
+rn_comms_message_log^ (0)
+rn_comms_project^ (0)
+rn_comms_project_status^ (0)
+rn_comms_user_groups~ (3)
+rn_duplicator_packages^ (0)
+rn_ec3_schedule^ (0)
+rn_email~ (9)
+rn_itsec_lockouts~ (32)
+rn_itsec_log~ (1)
+rn_itsec_temp~ (116)
+rn_links~ (35)
+rn_loginlog~ (2035)
+rn_options~ (548)
+rn_pollsa~ (6)
+rn_pollsip~ (12)
+rn_pollsq~ (1)
+rn_postmeta~ (6067)
+rn_posts~ (4135)
+rn_sms_log^ (0)
+rn_ss_search~ (11)
+rn_term_relationships~ (358)
+rn_term_taxonomy~ (29)
+rn_termmeta^ (0)
+rn_terms~ (29)
+rn_usermeta~ (368)
+rn_users~ (10)
+--------------------------------------
+Search1:	'http://maav.org/home' 
+Change1:	'http://localhost' 
+Search2:	'/home/maav00/public_html/home' 
+Change2:	'/Users/michalshlapentokh-rothman/Desktop/CodeforGood' 
+Search3:	'http:\/\/maav.org\/home' 
+Change3:	'http:\/\/localhost' 
+Search4:	'\/home\/maav00\/public_html\/home' 
+Change4:	'\/Users\/michalshlapentokh-rothman\/Desktop\/CodeforGood' 
+Search5:	'%2Fhome%2Fmaav00%2Fpublic_html%2Fhome%2F' 
+Change5:	'%2FUsers%2Fmichalshlapentokh-rothman%2FDesktop%2FCodeforGood%2F' 
+Search6:	'http%3A%2F%2Fmaav.org%2Fhome' 
+Change6:	'http%3A%2F%2Flocalhost' 
+Search7:	'\home\maav00\public_html\home' 
+Change7:	'/Users/michalshlapentokh-rothman/Desktop/CodeforGood' 
+SCANNED:	Tables:39 	|	 Rows:15866 	|	 Cells:166499 
+UPDATED:	Tables:3 	|	 Rows:4636 	|	 Cells:5826 
+ERRORS:		2 
+RUNTIME:	2.933900 sec
+====================================
+DATA-REPLACE ERRORS (Key):
+Use SQL: SELECT @row := @row + 1 as row, t.* FROM some_table t, (SELECT @row := 0) r
+Row [223] on Table [rn_cf7dbplugin_submits] requires a manual update.
+Row [578] on Table [rn_cf7dbplugin_submits] requires a manual update.
+
+********************************************************************************
+START FINAL CLEANUP: 04:37:14
+********************************************************************************
+UPDATE `rn_blogs` SET domain = 'localhost' WHERE domain = 'maav.org'
+
+--------------------------------------
+NOTICES
+--------------------------------------
+NOTICE: The wp-config.php has one or more of the following values set [WP_SITEURL, WP_HOME].  Please validate these values are correct by opening the file and checking the values.  To validate the meaning and proper usage of each parameter used the codex link above.
+NOTICE: The media settings values in the table 'rn_options' has at least one the following values ['upload_url_path','upload_path'] set.  Please validate these settings by logging into your wp-admin and going to Settings->Media area and validating the 'Uploading Files' section
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+created basic .htaccess file.  If using IIS web.config this process will need to be done manually.
+********************************************************************************
+STEP 2 COMPLETE @ 04:37:14 - TOTAL RUNTIME: 2.9457 sec.
+********************************************************************************
